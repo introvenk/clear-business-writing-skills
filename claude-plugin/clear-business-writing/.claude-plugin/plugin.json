@@ -1,0 +1,24 @@
+{
+  "name": "clear-business-writing",
+  "version": "1.0.0",
+  "description": "Three skills for engineering-management business writing, derived from Josh Bernoff's Writing Without Bullshit: drafting-for-readers (RFCs, postmortems, reviews, emails, escalations, standups, blog/social/press content), diagnosing-drafts (clarity review), and improving-writing-culture (team/org writing-culture and process fixes).",
+  "author": {
+    "name": "Venkatesh",
+    "email": "introvenk@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/introvenk/clear-business-writing-skills",
+  "repository": "https://github.com/introvenk/clear-business-writing-skills",
+  "keywords": [
+    "claude-code",
+    "skills",
+    "writing",
+    "business-writing",
+    "engineering-management",
+    "documentation",
+    "bernoff"
+  ],
+  "skills": [
+    "./skills/"
+  ]
+}

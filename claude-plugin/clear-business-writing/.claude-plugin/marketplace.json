@@ -1,0 +1,15 @@
+{
+  "name": "clear-business-writing",
+  "description": "Business writing skills for engineering management, derived from Josh Bernoff's Writing Without Bullshit",
+  "owner": {
+    "name": "Venkatesh",
+    "email": "introvenk@gmail.com"
+  },
+  "repository": "https://github.com/introvenk/clear-business-writing-skills",
+  "plugins": [
+    {
+      "name": "clear-business-writing",
+      "source": "./"
+    }
+  ]
+}
