@@ -1,5 +1,14 @@
 # Clear Business Writing Skills
 
+[![claude-code](https://img.shields.io/badge/claude--code-blue)](https://github.com/topics/claude-code)
+[![claude-skills](https://img.shields.io/badge/claude--skills-blue)](https://github.com/topics/claude-skills)
+[![business-writing](https://img.shields.io/badge/business--writing-green)](https://github.com/topics/business-writing)
+[![technical-writing](https://img.shields.io/badge/technical--writing-green)](https://github.com/topics/technical-writing)
+[![engineering-management](https://img.shields.io/badge/engineering--management-orange)](https://github.com/topics/engineering-management)
+[![writing](https://img.shields.io/badge/writing-green)](https://github.com/topics/writing)
+[![documentation](https://img.shields.io/badge/documentation-lightgrey)](https://github.com/topics/documentation)
+[![ai-agent-skills](https://img.shields.io/badge/ai--agent--skills-purple)](https://github.com/topics/ai-agent-skills)
+
 Three [Claude Code](https://claude.com/claude-code) skills for engineering-management
 business writing, derived from Josh Bernoff's *Writing Without Bullshit* and built with
 TDD discipline: no guidance was written until a no-guidance baseline test actually
