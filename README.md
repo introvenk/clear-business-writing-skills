@@ -37,6 +37,11 @@ For team-level problems: writing standards, document templates, review processes
 diagnosing why an organization's documents are consistently unclear. Addresses the system
 around the writing, not any single document.
 
+### `communicating-clearly`
+Applies the same clarity principles to real-time conversational replies instead of
+authored documents — invoke it explicitly to tighten, shorten, or de-hedge a response
+mid-conversation.
+
 ## Install
 
 ```

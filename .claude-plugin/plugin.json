@@ -1,7 +1,7 @@
 {
   "name": "clear-business-writing",
-  "version": "1.0.0",
-  "description": "Three skills for engineering-management business writing, derived from Josh Bernoff's Writing Without Bullshit: drafting-for-readers (RFCs, postmortems, reviews, emails, escalations, standups, blog/social/press content), diagnosing-drafts (clarity review), and improving-writing-culture (team/org writing-culture and process fixes).",
+  "version": "1.1.0",
+  "description": "Four skills for engineering-management business writing, derived from Josh Bernoff's Writing Without Bullshit: drafting-for-readers (RFCs, postmortems, reviews, emails, escalations, standups, blog/social/press content), diagnosing-drafts (clarity review), improving-writing-culture (team/org writing-culture and process fixes), and communicating-clearly (tightening conversational replies).",
   "author": {
     "name": "Venkatesh",
     "email": "introvenk@gmail.com"
