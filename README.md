@@ -9,7 +9,7 @@
 [![documentation](https://img.shields.io/badge/documentation-lightgrey)](https://github.com/topics/documentation)
 [![ai-agent-skills](https://img.shields.io/badge/ai--agent--skills-purple)](https://github.com/topics/ai-agent-skills)
 
-Three [Claude Code](https://claude.com/claude-code) skills for engineering-management
+Four [Claude Code](https://claude.com/claude-code) skills for engineering-management
 business writing, derived from Josh Bernoff's *Writing Without Bullshit* and built with
 TDD discipline: no guidance was written until a no-guidance baseline test actually
 demonstrated the failure it addresses.
@@ -41,6 +41,9 @@ around the writing, not any single document.
 Applies the same clarity principles to real-time conversational replies instead of
 authored documents — invoke it explicitly to tighten, shorten, or de-hedge a response
 mid-conversation.
+
+Skill guidance is being cross-checked against the book, with chunk-cited notes kept in a
+separate working directory.
 
 ## Install
 

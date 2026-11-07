@@ -1,33 +1,32 @@
 ---
 name: improving-writing-culture
-description: Use when setting team writing standards, designing document templates, fixing a review process, or diagnosing why an organization's documents are consistently unclear.
+description: Use when setting team writing standards, fixing a review process, or diagnosing why an organization's documents are consistently unclear.
 ---
 
 # Improving Writing Culture
 
 ## Overview
-Bad writing is usually a symptom of a team's system, not any one author's skill. This skill addresses the system: templates, review processes, and what leadership models — not any single document.
+Bad writing across a team usually has systemic causes. Diagnose the cause, then change one bounded thing and prove it worked. Source: Bernoff, *Writing Without Bullshit*, Epilogue plus the editing/review chapters.
 
-## Why bullshit accumulates
-- **Lost editorial filters** — nobody's job is to cut a document down before it ships.
-- **Volume** — more documents, less time per document, more copy-paste of prior bad examples.
-- **Fear** — hedging and vagueness are often a rational response to a culture where directness gets punished.
+## Diagnose the cause
+- **Lost editorial filters** — nobody's job is to cut documents before they ship.
+- **Fear** — vagueness, hedging, and passive voice ("mistakes were made") are a rational response when directness gets punished. A team-wide pattern points at safety, not style.
+- **Academic habits** — people write to show effort and length, the way school rewarded them.
 
-## Writing reveals culture
-Passive-voice incident reports ("mistakes were made") usually mean nobody feels safe stating what happened plainly. Treat a pattern of vague writing across a team as a signal to investigate the underlying safety, not just a style problem to fix document-by-document.
+## Change plan (in order)
+1. **Spread the Iron Imperative.** Treat the reader's time as more valuable than your own. Make that the shared standard for every doc.
+2. **Recruit powerful friends, and bring them a plan.** Find influential people who want better documents. Give them a concrete proposal, not a complaint.
+3. **Limit scope; pick your battles.** People who try to change everything change nothing. Start with one team or one document type (e.g. postmortems, status reports).
+4. **Prove your worth with statistics.** Measure before and after (time to read, rounds of review, questions asked, survey ratings) and report it.
 
-## Leadership modeling
-People imitate what they see from leadership. A leader who hedges bad news in their own updates cannot expect direct status updates from their reports.
+## Fix the review process
+- **Manage reviewers.** Decide up front who reviews, what each checks, and the deadline. Don't let the reviewer list grow by default.
+- **Use an editor who stands in for the reader.** Their job is to ask "what does the reader need?", not to add their own content.
+- **Share one living document**, not email attachments. Parallel copies multiply conflicting edits.
+- **Feedback processes are broken.** In Bernoff's survey, only about half of business writers got the editorial feedback they needed, and just 32% said their feedback process worked well (#254). Fix the process, not just the drafts.
 
-## Interventions
-- **Question reviewer lists.** Remove reviewers who don't materially improve a document — they add latency and dilution, not editorial value.
-- **Rewrite templates that institutionalize vagueness** — a mandatory "executive summary" section nobody reads teaches authors to pad.
-- **Reward uncomfortable clarity** — visibly credit the postmortem that names a real cause, not the one that spreads blame thin.
+## Not from the book (useful extras)
+- Reward clarity in public: credit the postmortem that names a real cause over the one that spreads blame.
+- Leaders set the example. If leaders hedge bad news, their reports will too.
 
-## Change sequence
-Generate awareness → share knowledge → build support systems. Don't try to fix a team's writing culture by fiat in one meeting — each stage needs the previous one to hold.
-
-## Recruit allies
-Find people with influence who already write well and want better documents from others. Change spreads faster through peers than through a top-down mandate.
-
-Human-practice material (protected writing time, focus conditions) is context for the user, not agent-actionable instruction — a skill can't enforce "get 90 uninterrupted minutes."
+Protected writing time and focus conditions are advice for the human, not things an agent can enforce.

@@ -12,14 +12,14 @@ Every piece of business writing exists to save the reader time. Draft with the r
 Before writing, ask: what does the reader need to decide or do, and what's the fastest path to it? Treat their time as more valuable than yours.
 
 ## ROAM
-Reader, Objective, Audience-knowledge, Message — infer before drafting. Tier by container (see `containers.md`):
-- **Full block** (RFC, postmortem, report, press release): write all four out.
-- **One line** (email, escalation, review & feedback, blog): infer, state in one line.
+**R**eaders (who exactly?), **O**bjective (what will they know or believe after?), **A**ction (what will they do next?), i**M**pression (what will they think of you?). Then compress it into one **target sentence**: *"After reading this, [readers] will realize [objective], so they will [action] and think of me as [impression]."* Cut anything that doesn't serve it. Infer before drafting. Tier by container (see `containers.md`):
+- **Full block** (RFC, postmortem, report, press release): write all four plus the target sentence.
+- **One line** (email, escalation, review & feedback, blog): state the target sentence only.
 - **Silent** (standup, social): infer, don't surface.
 - **Any tier:** if reader or objective can't be inferred, ask — don't assume.
 
 ## Point, support it, then stop
-State the point first. Support it. Stop. Don't restate the point, and don't add a closing summary paragraph the reader didn't ask for.
+State the point first: conclusion, then reasoning, so a reader who stops early still gets it. Write the title/subject line before drafting and rewrite it after; if that's all they read, it should still say something useful. Support it. Stop. Don't restate the point, and don't add a closing summary paragraph the reader didn't ask for.
 
 ## Never invent specificity
 If a name, cause, commitment, or reviewed-content detail isn't in your source material, don't manufacture one. Flag it explicitly — a bracketed placeholder, an inline "to be confirmed" — for:

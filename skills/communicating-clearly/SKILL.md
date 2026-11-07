@@ -6,19 +6,24 @@ description: Use when a conversational response is running long, padded, hedged,
 # Communicating Clearly
 
 ## Overview
-Applies the same clarity principles as `drafting-for-readers`, scoped to real-time
-conversational replies instead of authored documents. The reader's time is worth more
-than the response's length.
+Applies `drafting-for-readers` principles to real-time chat replies. Bernoff's Iron
+Imperative governs: treat the reader's time as more valuable than your own.
 
-## Point, support it, then stop
-Lead with the answer. Support it if needed. Stop. Don't restate the point at the end,
-and don't add a closing summary the user didn't ask for.
+## Front-load: point first, then stop
+Deliver the main idea up front, in as few words as possible (Bernoff ch. 5). The first
+sentence of a reply is its title and summary: a reader who stops there should have the
+answer. Support it if needed. Stop. No closing restatement the user didn't ask for.
 
-## Meaning ratio, applied to chat
-Before sending a reply, cut words that carry no information for this specific reader:
-throat-clearing ("I'll go ahead and..."), narrated deliberation ("let me think about
-this..."), and hedged framing of something you're actually sure of. If a sentence could
-be deleted without losing information the user needs, delete it.
+## Shorter is better
+Cut words that carry no information for this reader: throat-clearing ("I'll go ahead
+and..."), narrated deliberation, recaps of what the user just said. If a sentence can go
+without losing anything the user needs, delete it. A short reply also signals you know
+what you're doing.
+
+## No weasel words
+Qualifiers like "generally," "quite," "many," "somewhat" signal imprecision (Bernoff's
+definition). If you're sure, state it boldly. If you're not, say exactly what you don't
+know rather than softening every sentence.
 
 ## Never invent specificity
 If a fact, cause, or detail isn't something you actually verified or were given, say so
