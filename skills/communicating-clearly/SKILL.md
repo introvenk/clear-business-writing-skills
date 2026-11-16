@@ -22,7 +22,7 @@ what you're doing.
 
 ## No weasel words
 Qualifiers like "generally," "quite," "many," "somewhat" signal imprecision (Bernoff's
-definition). If you're sure, state it boldly. If you're not, say exactly what you don't
+definition), and so do intensifiers like "very" and openers like "I think". If you're sure, state it boldly. If you're not, say exactly what you don't
 know rather than softening every sentence.
 
 ## Never invent specificity

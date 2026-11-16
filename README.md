@@ -18,14 +18,11 @@ demonstrated the failure it addresses.
 
 ### `drafting-for-readers`
 Drafting help for RFCs/ADRs/design docs, reports, incident postmortems, review feedback,
-emails, escalations, standup/cadence updates, blog posts, social posts, and press
-releases. A positive recipe, not a prohibition list — states what good output *is* rather
+emails, escalations, status/leadership updates, standup/cadence updates, blog posts,
+social posts, and press releases. A positive recipe, not a prohibition list — states what good output *is* rather
 than listing what to avoid. Its central rule, "never invent specificity," exists because
 baseline testing found language models silently fabricate names, causes, commitments, and
 narrative detail more often and more consistently than any other failure tested.
-
-Not for status/leadership updates — pair it with a status-update-specific skill if you
-have one (e.g. `team-communications`).
 
 ### `diagnosing-drafts`
 Reviews an existing draft — someone else's or your own — for clarity problems: meaning
