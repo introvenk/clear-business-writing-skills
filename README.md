@@ -39,8 +39,8 @@ Applies the same clarity principles to real-time conversational replies instead 
 authored documents — invoke it explicitly to tighten, shorten, or de-hedge a response
 mid-conversation.
 
-Skill guidance is being cross-checked against the book, with chunk-cited notes kept in a
-separate working directory.
+All guidance has been checked against the book text and cites chapters where it applies.
+Guidance that comes from testing rather than the book is labelled as such.
 
 ## Install
 
@@ -54,10 +54,10 @@ separate working directory.
 Each container recipe traces back to an actual observed failure, not a predicted one.
 27 no-guidance baseline runs were tested across 11 document types before any skill
 content was written; `drafting-for-readers` was then re-tested with the skill present to
-confirm the fabrication behavior it targets was actually corrected. Guidance was dropped
-for predicted failures (hedging, buried leads, non-committal recommendations) that never
-showed up in testing, and the one dominant unpredicted failure — invented specificity —
-became the skill's central rule instead.
+confirm the fabrication behavior it targets was actually corrected. The one dominant unpredicted
+failure, invented specificity, became the skill's central rule. A later audit against the
+book added the chapters testing hadn't covered: numbers, structure, long-document
+planning, review handoffs, and the hedging, buried-lead and missing-recommendation rules.
 
 ## License
 
